@@ -1,0 +1,5 @@
+﻿Build started at 12:09...
+1>------ Build started: Project: vruzki, Configuration: Debug Any CPU ------
+1>  vruzki -> C:\Users\1409-6\source\repos\vruzki\bin\Debug\vruzki.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:09 and took 01,099 seconds ==========
